@@ -5,8 +5,15 @@
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  
+<div>
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=carolmaglio&show_icons=true&theme=dracula"/> 
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolmaglio&layout=compact&theme=dracula"/>
+</div>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=carolmaglio&show_icons=true&theme=dracula"/> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolmaglio&layout=compact&theme=dracula"/>
+
+  
+
 
 
 <!---

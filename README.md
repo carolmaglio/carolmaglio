@@ -44,8 +44,9 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="file:///C:/Users/carol/AppData/Local/Temp/aaa5f201-0dd2-469a-b173-e7cdb900b7e1_visual-studio-code-icons.zip.7e1/visual-studio-code-icons/vscode.svg" height="40" alt="visualstudiocode logo"  />
-  <img width="12" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />

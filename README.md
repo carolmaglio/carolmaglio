@@ -2,7 +2,6 @@
 
 <h2 align="left">About me</h2>
 
-###
   <div>
 <p align="left">🖥️ I'm currently working as a nursing assistant, but I'm transitioning my career to the area of technology, which has always been my passion since Tumblr season.<br>🌱 I'm constantly studying and learning new languages and technologies to improve my skills.<br>🎓 Graduating in Information Technology at the Virtual University of the State of São Paulo.<br>📢 Fun fact: I love spending time watching Alanzoka's lives, watching horror movies and fighting Muay Thai.</p>
   </div>
@@ -10,14 +9,17 @@
 ###
 
 <div align="center">
+  <a href = "mailto:carol07cortez@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
   <a href="www.linkedin.com/in/ccomaglio" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-<div align="center">
-  <a href="carol07cortez@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
+
+</p>
+
+
+</svg>
 </div>
 
 ###
@@ -45,21 +47,20 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
   <img width="12" />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="trello logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carolmaglio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="112" alt="languages graph"  />
 </div>
 
-###
+
 
 
 

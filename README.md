@@ -44,7 +44,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="<img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="trello logo"  />
   <img width="12" />" height="40" alt="vsc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />

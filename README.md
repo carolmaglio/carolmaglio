@@ -1,29 +1,59 @@
-## Olá! Eu sou a Caroline
+<h1 align="center">Hello, there! ✨</h1>
 
-👋 Hi, I’m @carolmaglio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+###
 
-## 
-<div>
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=carolmaglio&show_icons=true&theme=dracula"/> 
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolmaglio&layout=compact&theme=dracula"/>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🖥️ I'm currently working as a nursing assistant, but I'm transitioning my career to the area of technology, which has always been my passion since Tumblr season.<br>🌱 I'm constantly studying and learning new languages and technologies to improve my skills.<br>🎓 Graduating in Information Technology at the Virtual University of the State of São Paulo.<br>📢 Fun fact: I love spending time watching Alanzoka's lives, watching horror movies and fighting Muay Thai.</p>
+
+###
+
+<h2 align="left">Learning</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-<br><br><br><br><br><br><br>
- 
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Carol-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-##
+###
 
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<h2 align="left">Contact</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/ccomaglio" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="carol07cortez@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 
 

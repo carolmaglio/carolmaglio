@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Learning</h2>
+<h2 align="left">Languages</h2>
 
 ###
 

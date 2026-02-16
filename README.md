@@ -3,7 +3,7 @@
 <h2 align="left">About me</h2>
 
   <div>
-<p align="left">🖥️ X <br>🌱 I'm constantly studying and learning new languages and technologies to improve my skills.*<br>🎓 Graduating in Information Technology at the Virtual University of the State of São Paulo.<br>📢 Fun fact: I love spending time watching Alanzoka's lives, watching horror movies and fighting Muay Thai.</p>
+<p align="left">🌱 I'm constantly studying and learning new languages and technologies to improve my skills.*<br>🎓 Graduating in Information Technology at the Virtual University of the State of São Paulo.<br>📢 Fun fact: I love spending time watching Alanzoka's lives, watching horror movies and fighting Muay Thai.</p>
   </div>
 
 ###
@@ -53,14 +53,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/google-looker.png" alt="google-looker"/>
   <img width="12" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carolmaglio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="112" alt="languages graph"  />
-</div>
-
-
 
 
 

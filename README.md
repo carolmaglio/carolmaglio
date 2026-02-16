@@ -3,7 +3,7 @@
 <h2 align="left">About me</h2>
 
   <div>
-<p align="left">🌱 I'm constantly studying and learning new languages and technologies to improve my skills.*<br>🎓 Graduating in Information Technology at the Virtual University of the State of São Paulo.<br>📢 Fun fact: I love spending time watching Alanzoka's lives, watching horror movies and fighting Muay Thai.</p>
+<p align="left">🌱 I'm constantly studying and learning new languages and technologies to improve my skills.<br>🎓 Graduating in Information Technology at the Virtual University of the State of São Paulo.<br>📢 Fun fact: I love spending time watching Alanzoka's lives, watching horror movies and fighting Muay Thai.</p>
   </div>
 
 ###
